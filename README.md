@@ -36,7 +36,7 @@ We can see that majority of accidents, even though they are non-fatal, happen du
 
 ![image-3.png](image-3.png)
 
-Modern aircrafts are all relatively safe due to strict regulations by relevant authorites. Only a handful of incidents between the top 10 and bottom 10 thus other factors have to be considered while purchasing planes for use other than accident fatalities
+Modern aircrafts are all relatively safe due to strict regulations by relevant authorites. Even though we can clearly see the Airbus A320 and Boeing 737 have more accidents than the rest
 
 ![image-2.png](image-2.png)
 
@@ -53,7 +53,7 @@ This is because most accidents happen during clear skies/ visual meteorological 
 
 **2.Consider other factors such as RELIABILITY,EFFICIENCY,VERSATILITY AND PRICE while purchasing aircrafts instead of accident data.**
 
-This is because differences in fatalities per accidents between the top 10 and the bottom 10 are minimal indicating high safety standards across the board
+This is because even though we can clearly see the Airbus A320 and Boeing 737 have more accidents than the rest its crucial to note that it's not a reflection on poor safety. These two are the most widely used planes
 
 **3.Adopt advanced navigation and auto pilot systems to enhance safety even clear weather conditions**
 
@@ -61,5 +61,6 @@ Most accidents happen during VFR conditions which are deceptively safer but pose
 
 
 ```python
+
 
 ```
