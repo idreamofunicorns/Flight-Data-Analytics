@@ -34,16 +34,15 @@ We utilize data analysis techniques to clean and prepare the data, visualize key
 
 We can see that majority of accidents, even though they are non-fatal, happen during clear skies and weather conditions when pilots rely on visual references and stimuli
 
-"C:\Users\User\Desktop\Flight-Data\image 1.png"
-
+![image.png](attachment:image.png)
 
 Modern aircrafts are all relatively safe due to strict regulations by relevant authorites. Even though we can clearly see the Airbus A320 and Boeing 737 have more accidents than the rest
 
-
+![image-2.png](attachment:image-2.png)
 
 This graph shows that majority of accidents happen during clear weather conditions while pilots use visual flight rules(VFR)
 
-
+![image-3.png](attachment:image-3.png)
 
 
 
@@ -67,6 +66,8 @@ Most accidents happen during VFR conditions which are deceptively safer but pose
 See the full analysis http://localhost:8888/notebooks/Desktop/Flight-Data/Flight-Data-Analytics-Notebook.ipynb
 
 See the dashboard 
+
+
 
 ```python
 
