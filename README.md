@@ -44,7 +44,7 @@ This graph shows that majority of accidents happen during clear weather conditio
 
 ![image.png](image.png)
 
-## CONCLUSION
+## Conclusion
 The analysis conducted leads to the following observations and recommendations
 
 **1.Invest in advanced training programs for pilots to enhance navigational skills and advanced situational awareness.**
@@ -58,6 +58,12 @@ This is because even though we can clearly see the Airbus A320 and Boeing 737 ha
 **3.Adopt advanced navigation and auto pilot systems to enhance safety even clear weather conditions**
 
 Most accidents happen during VFR conditions which are deceptively safer but pose unique challenges
+
+## For more information
+
+See the full analysis http://localhost:8888/notebooks/Desktop/Flight-Data/Flight-Data-Analytics-Notebook.ipynb
+
+See the dashboard https://public.tableau.com/views/FlightAnalyticsDashboard_17327732272370/FlightDataAnalyticsDashhboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ```python
