@@ -34,7 +34,7 @@ We utilize data analysis techniques to clean and prepare the data, visualize key
 
 We can see that majority of accidents, even though they are non-fatal, happen during clear skies and weather conditions when pilots rely on visual references and stimuli
 
-
+"C:\Users\User\Desktop\Flight-Data\image 1.png"
 
 
 Modern aircrafts are all relatively safe due to strict regulations by relevant authorites. Even though we can clearly see the Airbus A320 and Boeing 737 have more accidents than the rest
