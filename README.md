@@ -65,7 +65,8 @@ Most accidents happen during VFR conditions which are deceptively safer but pose
 
 See the full analysis http://localhost:8888/notebooks/Desktop/Flight-Data/Flight-Data-Analytics-Notebook.ipynb
 
-See the dashboard 
+See the dashboard https://public.tableau.com/views/FlightDataAnalytics_17328704277680/FlightDataAnalyticsdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 
